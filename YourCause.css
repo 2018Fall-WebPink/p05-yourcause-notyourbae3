@@ -1,0 +1,95 @@
+/*
+* Emily Gallo
+* 1/4/19
+* Your Cause: Pitbulls
+*/
+
+/* The universal selector */
+
+* { margin: 0; padding: 0;
+
+}
+
+/* Body attributes here */
+
+body {
+    background-color: aliceblue;
+    width: 98%;
+    margin: auto;
+    
+
+}
+
+/* This is the header structure below */
+
+header {
+    text-align: center;
+    font-family: "DIN Alternate", "Rockwell condensed", fantasy;
+    font-size: 300%;
+    color: navy; 
+    border-bottom: 3px solid navy;
+    padding: 15px 0px;
+
+}
+
+/* This is the h1 structure below  */
+
+h1 { font-size: 150%;
+    text-align: left;
+    font-family: "DIN Alternate", "Rockwell condensed", fantasy;
+    color: navy;
+}
+
+/* This is the main structure below */
+
+main {
+    background-color:;
+    text-align: left;
+    font-family: "DIN Alternate", "Rockwell condensed", fantasy;
+    font-size: 140%;
+    margin: 50px;
+}
+
+/* This is the h2 structure below */
+
+h2 { 
+    font-family:"DIN Alternate", "Rockwell condensed", fantasy;
+    color: navy;
+}
+
+h3 { 
+    font-family:"DIN Alternate", "Rockwell condensed", fantasy;
+    color: navy;
+}
+/* This is the footer structure below */
+
+footer {
+    background-color:;
+    font-family:"DIN Alternate", "Rockwell condensed", fantasy;
+    clear: both;
+    font-size: 100% ;
+    border-top: 3px solid navy;
+    padding: 15px 0px;
+    margin: 50px; 
+
+}
+
+h6 { float:right; 
+}
+    
+
+/* These are all the pictures in the webpage structure */
+
+#PitbullSmile { width: 250px; height: 200px; float: left; margin: 25px; border: 3px solid navy; }
+#lovepit      { width: 230px; height: 200px; margin: 5px; border: 3px solid navy;}
+#blueboys     { width: 250px; height: 200px;  margin: 5px; border: 3px solid navy;}
+#chewy2        { width: 300px; height: 200px;  margin: 5px; border: 3px dotted navy;}
+#flowerpit    { width: 200px; height: 200px;  margin: 5px; border: 3px solid navy;}
+#babypit      { width: 220px; height: 200px;  margin: 5px; border: 3px solid navy;}
+
+#pitlives { width: 400px; height: 300px; float: right; margin: 25px; border: 3px solid navy;}
+
+/* This is the links structure below */
+
+
+
